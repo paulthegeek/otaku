@@ -3,3 +3,7 @@ en:
     application:
       sign_in: Sign in
       sign_out: Sign out
+  users:
+    new:
+      sign_in: Sign in
+      title: Sign up

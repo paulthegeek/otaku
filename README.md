@@ -1,4 +1,14 @@
-# Otaku
+# What is Otaku?
+A place to share your favorite geek movies, tv shows, comics, books, and video
+games and learn what other geeks are into.
+
+In your profile you will have the ability to mark your favorites from the five
+categories. You will also have the ability to add a favorite if it is currently
+not avaliable as a selection.
+
+Geeks will be able to follow each other to keep up with the new things people
+love. The dashboard will also provide a way for the geek community to see what
+is the most popular items based on category.
 
 ## Getting Started
 
